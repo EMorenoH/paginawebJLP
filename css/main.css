@@ -12,6 +12,13 @@ img{
 .espacio-arriba{
 	margin-top: 100px;
 }
+.espacio-arriba2{
+	margin-top: 200px;
+}
+.espacio-arriba3{
+	margin-top: 300px;
+}
+
 .pacifico{
 	font-family: 'Pacifico', cursive;
 }
@@ -47,12 +54,14 @@ color: #009FFF;
 	margin-right: -4px;
 }
 
-.no-lista li{ list-style-type: none; }
+.no-lista li{ 
+	list-style-type: none; }
 
 a,.azul{ color: #009FFF;
 
 }
-.texto-justificado { text-align: justify; }
+.texto-justificado { 
+	text-align: justify; }
 
 .se-negro { 
 	background-color: #4B4B4B;
@@ -90,4 +99,32 @@ a,.azul{ color: #009FFF;
 	-webkit-animation-delay: 6s;
 	-moz-animation-delay: 6s;
 	animation-delay: 6s;
+}
+.magenta{
+	color: #F28585;
+}
+.ori
+{
+	color: #F2F2F2;
+}
+.blanco{
+	color: white;
+}
+.transparente{
+	color: transparent;
+}
+.date {
+font-size: 36px !important;
+color: #F00 !important;
+}
+.appWhatsapp{
+	position: fixed;
+	right: 26px;
+	bottom: 70px;
+	width: 60px;
+	z-index: 1000;
+}
+.appWhatsapp img{
+	width: 100%;
+	height: auto;
 }
