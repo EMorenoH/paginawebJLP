@@ -1,0 +1,187 @@
+body{
+	background-color: white;
+	font-family: 'Lato', sans-serif;
+	color: none
+}
+img{
+	max-width: 100%;
+}
+@font-face{
+	font-family: Normal;
+	src: url(css/ink-free.ttf) format("truetype");
+}
+@font-face{
+	font-family: locuras;
+	src: url(css/emperador.ttf);
+}
+
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 100px;
+}
+.espacio-arriba2{
+	margin-top: 200px;
+}
+.espacio-arriba3{
+	margin-top: 300px;
+}
+
+.pacifico{
+	font-family: 'Pacifico';
+}
+.caveat{
+	font-family: 'Caveat';
+}
+.reenie{
+	font-family: 'Reenie Beanie';
+}
+.shadow{
+	font-family: 'Shadows Into Light';
+}
+
+.emperador{
+	font-family: 'locuras';
+}
+
+
+.texto100{
+	font-family: 'Normal';
+}
+
+
+.grande{
+	font-size: 4em;
+}
+.verde{
+	color: #5EB3A9
+}
+.espacio-derecha{
+	margin-right: 1em;
+}
+.espacio-izquierda{
+	margin-left: 1em;
+}
+a{
+color: #009FFF;
+}
+.se-gris{
+	background-color: #eee;
+	 padding: 18px 0 12px;
+}
+.se-negro { 
+	background-color: #000000;
+    padding: 18px 0 12px;
+}
+.se-azul{
+	background-color: #28285b;
+	 padding: 18px 0 12px;
+}
+.se-cyan{
+	background-color: #4dace1;
+	 padding: 18px 0 12px;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.no-lista li{ 
+	list-style-type: none; }
+
+a,.amarillo{ color: #FFD85A;
+}
+.azul{ color: #009FFF;
+}
+.texto-justificado { 
+	text-align: justify;
+}
+.mediano{
+	font-size: 1.5em;
+}
+.retraso-1{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso-2{
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
+.retraso-3{
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+	animation-delay: 3s;
+}
+.retraso-4{
+	-webkit-animation-delay: 4s;
+	-moz-animation-delay: 4s;
+	animation-delay: 4s;
+}
+.retraso-5{
+	-webkit-animation-delay: 5s;
+	-moz-animation-delay: 5s;
+	animation-delay: 5s;
+}
+.retraso-6{
+	-webkit-animation-delay: 6s;
+	-moz-animation-delay: 6s;
+	animation-delay: 6s;
+}
+.magenta{
+	color: #F28585;
+}
+.ori
+{
+	color: #F2F2F2;
+}
+.blanco{
+	color: white;
+}
+.transparente{
+	color: transparent;
+}
+.amarillo{
+	color: #FFD85A;
+}
+.rojo{
+	color: red;
+}
+.azul-fuerte{
+	color: #28285b;
+}
+.azul-claro{
+	color: #4dace1;
+}
+.naranja{
+	color: #F28D13;
+}
+.date {
+font-size: 36px !important;
+color: #F00 !important;
+}
+.appWhatsapp{
+	position: fixed;
+	right: 26px;
+	bottom: 70px;
+	width: 60px;
+	z-index: 1000;
+}
+.appWhatsapp img{
+	width: 100%;
+	height: auto;
+}
+.posision{
+	position: fixed;
+}
