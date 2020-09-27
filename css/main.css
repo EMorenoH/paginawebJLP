@@ -6,6 +6,15 @@ body{
 img{
 	max-width: 100%;
 }
+@font-face{
+	font-family: Normal;
+	src: url(css/ink-free.ttf) format("truetype");
+}
+@font-face{
+	font-family: locuras;
+	src: url(css/emperador.ttf);
+}
+
 .quitar-float{
 	float: none;
 }
@@ -20,8 +29,28 @@ img{
 }
 
 .pacifico{
-	font-family: 'Pacifico', cursive;
+	font-family: 'Pacifico';
 }
+.caveat{
+	font-family: 'Caveat';
+}
+.reenie{
+	font-family: 'Reenie Beanie';
+}
+.shadow{
+	font-family: 'Shadows Into Light';
+}
+
+.emperador{
+	font-family: 'locuras';
+}
+
+
+.texto100{
+	font-family: 'Normal';
+}
+
+
 .grande{
 	font-size: 4em;
 }
@@ -39,6 +68,19 @@ color: #009FFF;
 }
 .se-gris{
 	background-color: #eee;
+	 padding: 18px 0 12px;
+}
+.se-negro { 
+	background-color: #000000;
+    padding: 18px 0 12px;
+}
+.se-azul{
+	background-color: #28285b;
+	 padding: 18px 0 12px;
+}
+.se-cyan{
+	background-color: #4dace1;
+	 padding: 18px 0 12px;
 }
 .padding-largo{
 	padding: 5px 10px;
@@ -57,15 +99,12 @@ color: #009FFF;
 .no-lista li{ 
 	list-style-type: none; }
 
-a,.azul{ color: #009FFF;
-
+a,.amarillo{ color: #FFD85A;
+}
+.azul{ color: #009FFF;
 }
 .texto-justificado { 
-	text-align: justify; }
-
-.se-negro { 
-	background-color: #4B4B4B;
-    padding: 18px 0 12px;
+	text-align: justify;
 }
 .mediano{
 	font-size: 1.5em;
@@ -113,6 +152,21 @@ a,.azul{ color: #009FFF;
 .transparente{
 	color: transparent;
 }
+.amarillo{
+	color: #FFD85A;
+}
+.rojo{
+	color: red;
+}
+.azul-fuerte{
+	color: #28285b;
+}
+.azul-claro{
+	color: #4dace1;
+}
+.naranja{
+	color: #F28D13;
+}
 .date {
 font-size: 36px !important;
 color: #F00 !important;
@@ -127,4 +181,7 @@ color: #F00 !important;
 .appWhatsapp img{
 	width: 100%;
 	height: auto;
+}
+.posision{
+	position: fixed;
 }
