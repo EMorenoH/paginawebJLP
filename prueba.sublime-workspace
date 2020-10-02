@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"e",
+				"espacio-arriba3"
+			],
+			[
+				"na",
+				"naranja"
+			],
+			[
+				"re",
+				"retraso-3"
+			],
+			[
+				"me",
+				"mediano"
+			],
+			[
+				"sa",
+				"shadow"
+			],
+			[
+				"s",
+				"shadow"
+			],
+			[
+				"S",
+				"Shadows"
+			],
+			[
+				"tex",
+				"texto100"
+			],
+			[
+				"t",
+				"themillion"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"i",
+				"ink-Free"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"Hidr",
+				"Hidrosanitarias"
+			],
+			[
+				"se",
+				"se-gris"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"htt",
+				"https"
+			],
+			[
+				"r",
+				"transparent\tcolor"
+			],
+			[
+				"col",
+				"color-profile\tproperty"
+			],
+			[
+				"pa",
+				"padding-largo"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"margin-to",
+				"margin-bottom\tproperty"
+			],
+			[
+				"es",
+				"espacio-arriba"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tx",
+				"text-center"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/portada-en-movimiento-master/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/prueba.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/portada-en-movimiento-master/css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/prueba.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/capa.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/productos.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Servicios_mantenimiento.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Servicios_Profesionales.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Instalaciones.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Obra_Civil.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Ingenieria.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Unidades de Negocio.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/A cerca de.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Electricas.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/css/emperador.ttf",
+		"/Users/e.moreno/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/Hoja membretada/logo03.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pagina_Web_JLP/contacto1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Unidades de Negocio.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/productos.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Electricas.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Servicios_Profesionales.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/A cerca de.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Servicios_mantenimiento.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Ingenieria.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Instalaciones.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Obra_Civil.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/contacto1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/contacto.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Hoja membretada/Servicios Profesionales/imagen02.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Hoja membretada/Servicios Mantenimiento/Mantenimiento/IMG_20150831_052710941.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Hoja membretada/Pie de pagina 2.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Hoja membretada/Servicios Mantenimiento/Mantenimiento/imagen02.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/Hoja membretada/Servicios Mantenimiento/Mantenimiento/imagen02.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia_infinita/css/animate.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/Ingenieria.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/css/animate.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/css/animate.css/animate.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/A cerca de.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/contacto.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/Instalaciones.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/Electricas.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/productos.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/Servicios_mantenimiento.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/Servicios_Profesionales.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/Obra_Civil.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/LOGO03.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/Instalacionnes.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/menu.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/energia infinita/index.html",
+		"/Users/e.moreno/.bitnami/stackman/machines/xampp/volumes/root/htdocs/energiainfinita/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prueba.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
